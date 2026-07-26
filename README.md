@@ -16,7 +16,9 @@
 
 <h1>Business Intelligence </h1>
 
-<h2>Cohort</h2>
+
+
+<p><b><strong>Cohort</strong></b><p>
 <p>The cohort analysis studies the behavior of a certain group of clients based on a carachteristic and a period of time. In an example, if we group clients that have bought at a store in the month of january, we can follow their behavior on subsequentially months to see if they are likely to spend more or less at that store, or if they still buy at the store or not.</p>
 
 <p>Why is it helpful?</p>
