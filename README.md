@@ -27,7 +27,7 @@
   <li>Impacts directly at revenue and growth</li>
 </ul>
 
-<link href='https://www.totvs.com/blog/inteligencia-dados/churn/'>source</link>
+[source](https://www.totvs.com/blog/inteligencia-dados/churn/)
 
 ### <p>Cohort<p>
 <p>The cohort analysis studies the behavior of a certain group of clients based on a carachteristic and a period of time. In an example, if we group clients that have bought at a store in the month of january, we can follow their behavior on subsequentially months to see if they are likely to spend more or less at that store, or if they still buy at the store or not.</p>
@@ -40,7 +40,7 @@
   <li>Pinpoint at what moment clients stop engaging.</li>
 </ul>
 
-<link href='https://www.optimove.com/pt/resources/learning-center/cohort-analysis'>source</link>
+[source](https://www.optimove.com/pt/resources/learning-center/cohort-analysis/)
 
 ### <p>Lifetime Value (LTV)</p>
 
@@ -53,7 +53,7 @@
   <li>Highlights what segments are the most valueable to the company.</li>
 </ul>
 
-<link href='https://www.serasaexperian.com.br/conteudos/ltv-o-que-e-o-que-analisar/'>source</link>
+[source](https://www.serasaexperian.com.br/conteudos/ltv-o-que-e-o-que-analisar/)
 
 ### <p>Customer Acquisition Cost (CAC)</p>
 
@@ -66,4 +66,23 @@
   <li>Supports decisions about channels, campaigns and comercial strategy.</li>
 </ul>
 
-<link href='https://sebraeplay.com.br/content/custo-de-aquisicao-do-cliente-cac'>source</link>
+[source](https://sebraeplay.com.br/content/custo-de-aquisicao-do-cliente-cac)
+
+### Key Performance Indicators (KPI)
+
+<p>KPIs are metrics usd to measure if a business, team or process is advancing towards a goal. It shows how well the performance has been for the operation.</p>
+
+<p>Why is it helpful?</p>
+<ul>
+  <li>Tracks progress towards goals.</li>
+  <li>Helps data driven decisions.</li>
+  <li>Prioritizes what's most impactful towards the result.</li>
+</ul>
+
+[source](https://www.tableau.com/pt-br/learn/articles/what-is-KPI)
+
+<h2>Projects</h2>
+
+### 
+
+<h2>Contact</h2>
