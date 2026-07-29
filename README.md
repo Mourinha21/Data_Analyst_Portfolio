@@ -83,6 +83,16 @@
 
 <h2>Projects</h2>
 
-### 
+[Analyzing Game Sales](https://github.com/Mourinha21/Analyzing-Game-Sales-Sprint-6-Triple-Ten)
 
-<h2>Contact</h2>
+[Analyst at Zuber](https://github.com/Mourinha21/Analyst-at-Zuber)
+
+[Y.AFISHA Marketing Analysis](https://github.com/Mourinha21/Y.AFISHA-marketing-analysis)
+
+[Analyst at Model Fitness](https://github.com/Mourinha21/Analyst-Model-Fitness)
+
+## Contacts
+
+<a href='https://github.com/Mourinha21'><img loading="lazy" src= "https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"  target="_blank"></a>
+<a href = "https://www.linkedin.com/in/ricardomoura-tecnologia/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "rickgomes5844@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
