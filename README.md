@@ -119,10 +119,10 @@ The calculation usually includes expenses related to marketing, advertising, sal
 
 [Analyst at Model Fitness](https://github.com/Mourinha21/Analyst-Model-Fitness)
 
-### Feel free to explore my projects and follow my progress as I continue developing my skills in Data Analysis! 📊✨
+Feel free to explore my projects and follow my progress as I continue developing my skills in Data Analysis! 📊✨
 
 <div align="center">
-## Contacts
+<p font-weight=700>Contacts</p>
 
 
 <a href='https://github.com/Mourinha21'><img loading="lazy" src= "https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"  target="_blank"></a>
