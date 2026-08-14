@@ -112,16 +112,16 @@ The calculation usually includes expenses related to marketing, advertising, sal
 <h2>🚀 Projects</h2>
 
 [Analyzing Game Sales](https://github.com/Mourinha21/Analyzing-Game-Sales-Sprint-6-Triple-Ten)
--In this project I conducted T-Tests to reveal if there is a statistical difference between the scores from action and sports games.
+- In this project I conducted T-Tests to reveal if there is a statistical difference between the scores from action and sports games.
 
 [Analyst at Zuber](https://github.com/Mourinha21/Analyst-at-Zuber)
--Generated interactive charts about taxi trips in Chicago using Plotly
+- Generated interactive charts about taxi trips in Chicago using Plotly
 
 [Y.AFISHA Marketing Analysis](https://github.com/Mourinha21/Y.AFISHA-marketing-analysis)
--Plotted a cohort chart of users' LTV using an e-commerce data for analysis. 
+- Plotted a cohort chart of users' LTV using an e-commerce data for analysis. 
 
 [Analyst at Model Fitness](https://github.com/Mourinha21/Analyst-Model-Fitness)
--A machine learning model was applied to a gym's data to predict whether a user is likely to cancel their subscription.
+- A machine learning model was applied to a gym's data to predict whether a user is likely to cancel their subscription.
 
 Feel free to explore my projects and follow my progress as I continue developing my skills in Data Analysis! 📊✨
 
